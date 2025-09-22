@@ -4,10 +4,9 @@
   "description": "iNotebook - Your notebook on the cloud",
   "main": "index.js",
   "scripts": {
-   "start": "node Backend/index.js",
-"dev": "nodemon Backend/index.js"
-
-  },
+  "start": "node index.js",
+  "dev": "nodemon index.js"
+},
   "author": "",
   "license": "ISC",
   "dependencies": {
